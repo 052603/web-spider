@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+        <menuitem name="web-spider" id="web-spider.menu-root" groups="base.group_user" web_icon="web-spider,static/description/icon.png"/>
+    </data>
+</odoo>
