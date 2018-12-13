@@ -25,10 +25,12 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
+        'data/cron_data.xml',
         'views/views.xml',
         'views/templates.xml',
         'views/root.xml',
         'views/url.xml',
+        'views/movies.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
